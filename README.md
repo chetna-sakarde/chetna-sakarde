@@ -31,9 +31,12 @@
 🔍 Interested in AI, automation, and problem solving  
 🛠️ Building projects to sharpen my real-world development skills  
 
-## 🌐 Socials:
+## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chetna.19_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetnasakarde2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetanasakarde@gmail.com) 
 <!-- Snake Game Repo View -->
+
+
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
