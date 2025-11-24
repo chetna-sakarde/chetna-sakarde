@@ -51,8 +51,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chetna-sakarde&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=chetna-sakarde)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 ### ✍️ Random Dev Quote
